@@ -1,0 +1,90 @@
+[
+  {
+    "slug": "medical-service",
+    "display": true,
+    "name": "Medical Service",
+    "Value-1": 17802,
+    "Unit-1": "sessions",
+    "Value-2": 3770000,
+    "Unit-2": "beneficiaries",
+    "Value-3": 58,
+    "Unit-3": "countries / regions"
+  },
+  {
+    "slug": "permanent-house",
+    "display": "",
+    "name": "Permanent Housing",
+    "Value-1": 21565,
+    "Unit-1": "households",
+    "Value-2": 110000,
+    "Unit-2": "beneficiaries",
+    "Value-3": 17,
+    "Unit-3": "countries / regions"
+  },
+  {
+    "slug": "homes-and-schools",
+    "display": true,
+    "name": "Homes and Schools",
+    "Value-1": 21676,
+    "Unit-1": "permanent homes",
+    "Value-2": 248,
+    "Unit-2": "schools",
+    "Value-3": 16,
+    "Unit-3": "countries / regions"
+  },
+  {
+    "slug": "rice",
+    "display": "",
+    "name": "Rice",
+    "Value-1": 150180,
+    "Unit-1": "tons (2003-2022)",
+    "Value-2": 1545820,
+    "Unit-2": "beneficiaries",
+    "Value-3": 19,
+    "Unit-3": "countries / regions"
+  },
+  {
+    "slug": "recycling",
+    "display": true,
+    "name": "Recycling",
+    "Value-1": 105269,
+    "Unit-1": "volunteers",
+    "Value-2": 8176,
+    "Unit-2": "service centers",
+    "Value-3": 19,
+    "Unit-3": "countries / regions"
+  },
+  {
+    "slug": "blankets",
+    "display": true,
+    "name": "Blankets",
+    "Value-1": 1336468,
+    "Unit-1": "pieces (2003-2022)",
+    "Value-2": 1000000,
+    "Unit-2": "beneficiaries",
+    "Value-3": 46,
+    "Unit-3": "countries / regions"
+  },
+  {
+    "slug": "hot-meal",
+    "display": "",
+    "name": "Hot Meal",
+    "Value-1": "over 1000000",
+    "Unit-1": "meals",
+    "Value-2": "over 250000",
+    "Unit-2": "beneficiaries",
+    "Value-3": 35,
+    "Unit-3": "countries / regions"
+  },
+  {
+    "slug": "relief-care",
+    "display": true,
+    "name": "Relief Care",
+    "Value-1": "",
+    "Unit-1": "",
+    "Value-2": 70660180,
+    "Unit-2": "beneficiaries",
+    "Value-3": 128,
+    "Unit-3": "countries / regions"
+  }
+]
