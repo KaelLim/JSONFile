@@ -122,24 +122,24 @@
         "right": ""
       },
       "line_long": null,
-      "main_text": "{\n\"title\": \"正信普度 救生護生祈吉祥\",\n\"description\": \"七月吉祥月是佛陀的歡喜、吉祥、孝親月。\n人人茹素護生，以正知見、正信、正念回饋社會，\n將愛心普及一切眾生，即是落實真正的「普度」。\n\"\n}",
+      "main_text": "{\n\"title\": \"???? ???????\",\n\"description\": \"???????????????????\n??????????????????????\n??????????????????????\n\"\n}",
       "video_link": null,
       "img_carousell": [
         {
-          "title": "正信普度",
-          "description": "普度眾生救倒懸，扶助貧病苦難人。",
+          "title": "????",
+          "description": "????????????????",
           "img_src": "https://picsum.photos/180",
           "radius": "50px"
         },
         {
-          "title": "茹素護生",
-          "description": "從內心生起慈悲心，以茹素戒殺護生。",
+          "title": "????",
+          "description": "?????????????????",
           "img_src": "https://picsum.photos/180",
           "radius": "50px"
         },
         {
-          "title": "祈福造福",
-          "description": "行善付出，為天下造福祈安。",
+          "title": "????",
+          "description": "?????????????",
           "img_src": "https://picsum.photos/180",
           "radius": "50px"
         }
@@ -151,8 +151,8 @@
       "id": 1,
       "parent_id": 2024,
       "published": true,
-      "title": "地藏經連線共修",
-      "description": "《地藏經》揭示因緣果報道理，亦闡揚孝道；期待人人提升悲智，發地藏王菩薩的大願力，即發願度脫苦難眾生，視天下眾生為己親的悲懷與力行孝道。",
+      "title": "???????",
+      "description": "???????????????????????????????????????????????????????????????????",
       "line": {
         "left": "",
         "right": ""
@@ -163,19 +163,19 @@
           "bg_color": "",
           "data": [
             {
-              "date": "8月16日",
+              "date": "8?16?",
               "time": "19:30~21:00",
-              "scripture": "《地藏經》上卷"
+              "scripture": "???????"
             },
             {
-              "date": "8月17日",
+              "date": "8?17?",
               "time": "19:30~21:00",
-              "scripture": "《地藏經》中卷"
+              "scripture": "???????"
             },
             {
-              "date": "8月18日",
+              "date": "8?18?",
               "time": "19:30~21:00",
-              "scripture": "《地藏經》下卷"
+              "scripture": "???????"
             }
           ]
         }
@@ -186,19 +186,19 @@
           "bg_color": "",
           "data": [
             {
-              "date": "8月28日",
+              "date": "8?28?",
               "time": "19:30~21:00",
-              "scripture": "《地藏經》上卷"
+              "scripture": "???????"
             },
             {
-              "date": "8月29日",
+              "date": "8?29?",
               "time": "19:30~21:00",
-              "scripture": "《地藏經》中卷"
+              "scripture": "???????"
             },
             {
-              "date": "8月30日",
+              "date": "8?30?",
               "time": "19:30~21:00",
-              "scripture": "《地藏經》下卷"
+              "scripture": "???????"
             }
           ]
         }
@@ -209,19 +209,19 @@
           "bg_color": "",
           "data": [
             {
-              "date": "9月12日",
+              "date": "9?12?",
               "time": "19:30~21:00",
-              "scripture": "《地藏經》上卷"
+              "scripture": "???????"
             },
             {
-              "date": "9月13日",
+              "date": "9?13?",
               "time": "19:30~21:00",
-              "scripture": "《地藏經》中卷"
+              "scripture": "???????"
             },
             {
-              "date": "9月14日",
+              "date": "9?14?",
               "time": "19:30~21:00",
-              "scripture": "《地藏經》下卷"
+              "scripture": "???????"
             }
           ]
         }
@@ -234,8 +234,8 @@
       "id": 1,
       "parent_id": 2024,
       "published": true,
-      "title": "精舍祈福會直播",
-      "description": "8/18（日）15:00~17:00",
+      "title": "???????",
+      "description": "8/18???15:00~17:00",
       "line": {
         "left": "",
         "right": ""
