@@ -1,0 +1,248 @@
+{
+  "main_subject": [
+    {
+      "id": 2024,
+      "h2": {
+        "font-family": "Noto Serif TC",
+        "font-weight": "bold",
+        "line-height": "auto",
+        "font-size": "30px"
+      },
+      "h3": {
+        "font-family": "Noto Serif TC",
+        "font-weight": "bold",
+        "line-height": "27px",
+        "font-size": "20px"
+      },
+      "title": {
+        "font-family": "Noto Serif TC",
+        "font-weight": "bold",
+        "line-height": "auto",
+        "font-size": "24px"
+      },
+      "body1": {
+        "font-family": "Noto Serif TC",
+        "font-weight": "bold",
+        "line-height": "auto",
+        "font-size": "20px"
+      },
+      "body2": {
+        "font-family": "Noto Serif TC",
+        "font-weight": "bold",
+        "line-height": "24px",
+        "font-size": "18px"
+      },
+      "body3": {
+        "font-family": "Noto Serif TC",
+        "font-weight": "bold",
+        "line-height": "auto",
+        "font-size": "16px"
+      },
+      "caption1": {
+        "font-family": "Noto Serif TC",
+        "font-weight": "regular",
+        "line-height": "auto",
+        "font-size": "16px"
+      },
+      "caption2": {
+        "font-family": "Noto Serif TC",
+        "font-weight": "bold",
+        "line-height": "auto",
+        "font-size": "16px"
+      },
+      "button1": {
+        "font-family": "Noto Serif TC",
+        "font-weight": "bold",
+        "line-height": "auto",
+        "font-size": "16px"
+      },
+      "button2": {
+        "font-family": "Noto Serif TC",
+        "font-weight": "bold",
+        "line-height": "auto",
+        "font-size": "16px"
+      },
+      "primany": "#5F568F",
+      "secodary1": "#CF5908",
+      "secodary2": "#FCF4EC",
+      "secodary3": "#E4E7F0",
+      "secodary4": "#FFFFFF",
+      "secodary5": "#898088",
+      "body": "#463F31",
+      "linear": {
+        "stops": [
+          "0%",
+          "74%",
+          "100%"
+        ],
+        "colors": [
+          "#FFE6D0",
+          "#FDF7F2",
+          "#FFFFFF"
+        ]
+      },
+      "img_line": null,
+      "line": null
+    }
+  ],
+  "banner": [
+    {
+      "id": 1,
+      "parent_id": 2024,
+      "published": true,
+      "banner_img": "https://picsum.photos/1903/709",
+      "btn": {
+        "color": "",
+        "bg-color": "",
+        "border-color": "",
+        "color-hv": "",
+        "bg-color-hv": "",
+        "border-color-hv": "",
+        "margin": ""
+      },
+      "btn-data": [
+        {
+          "title": "",
+          "link": ""
+        },
+        {
+          "title": "",
+          "link": ""
+        }
+      ]
+    }
+  ],
+  "preface": [
+    {
+      "id": 1,
+      "parent_id": 2024,
+      "published": true,
+      "line": {
+        "left": "",
+        "right": ""
+      },
+      "line_long": null,
+      "main_text": "{\n\"title\": \"正信普度 救生護生祈吉祥\",\n\"description\": \"七月吉祥月是佛陀的歡喜、吉祥、孝親月。\n人人茹素護生，以正知見、正信、正念回饋社會，\n將愛心普及一切眾生，即是落實真正的「普度」。\n\"\n}",
+      "video_link": null,
+      "img_carousell": [
+        {
+          "title": "正信普度",
+          "description": "普度眾生救倒懸，扶助貧病苦難人。",
+          "img_src": "https://picsum.photos/180",
+          "radius": "50px"
+        },
+        {
+          "title": "茹素護生",
+          "description": "從內心生起慈悲心，以茹素戒殺護生。",
+          "img_src": "https://picsum.photos/180",
+          "radius": "50px"
+        },
+        {
+          "title": "祈福造福",
+          "description": "行善付出，為天下造福祈安。",
+          "img_src": "https://picsum.photos/180",
+          "radius": "50px"
+        }
+      ]
+    }
+  ],
+  "scripture_live": [
+    {
+      "id": 1,
+      "parent_id": 2024,
+      "published": true,
+      "title": "地藏經連線共修",
+      "description": "《地藏經》揭示因緣果報道理，亦闡揚孝道；期待人人提升悲智，發地藏王菩薩的大願力，即發願度脫苦難眾生，視天下眾生為己親的悲懷與力行孝道。",
+      "line": {
+        "left": "",
+        "right": ""
+      },
+      "date_start": [
+        {
+          "date-text": "8/16 - 8/18",
+          "bg_color": "",
+          "data": [
+            {
+              "date": "8月16日",
+              "time": "19:30~21:00",
+              "scripture": "《地藏經》上卷"
+            },
+            {
+              "date": "8月17日",
+              "time": "19:30~21:00",
+              "scripture": "《地藏經》中卷"
+            },
+            {
+              "date": "8月18日",
+              "time": "19:30~21:00",
+              "scripture": "《地藏經》下卷"
+            }
+          ]
+        }
+      ],
+      "date_middle": [
+        {
+          "date-text": "8/28 - 8/30",
+          "bg_color": "",
+          "data": [
+            {
+              "date": "8月28日",
+              "time": "19:30~21:00",
+              "scripture": "《地藏經》上卷"
+            },
+            {
+              "date": "8月29日",
+              "time": "19:30~21:00",
+              "scripture": "《地藏經》中卷"
+            },
+            {
+              "date": "8月30日",
+              "time": "19:30~21:00",
+              "scripture": "《地藏經》下卷"
+            }
+          ]
+        }
+      ],
+      "date_end": [
+        {
+          "date-text": "9/12 - 9/14",
+          "bg_color": "",
+          "data": [
+            {
+              "date": "9月12日",
+              "time": "19:30~21:00",
+              "scripture": "《地藏經》上卷"
+            },
+            {
+              "date": "9月13日",
+              "time": "19:30~21:00",
+              "scripture": "《地藏經》中卷"
+            },
+            {
+              "date": "9月14日",
+              "time": "19:30~21:00",
+              "scripture": "《地藏經》下卷"
+            }
+          ]
+        }
+      ],
+      "scripture_link": "https://connect.tzuchi.org.tw/dharma/"
+    }
+  ],
+  "pray_live": [
+    {
+      "id": 1,
+      "parent_id": 2024,
+      "published": true,
+      "title": "精舍祈福會直播",
+      "description": "8/18（日）15:00~17:00",
+      "line": {
+        "left": "",
+        "right": ""
+      },
+      "btn_img": null,
+      "btn_img_hv": null,
+      "btn_link": null
+    }
+  ]
+}
