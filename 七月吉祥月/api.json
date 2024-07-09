@@ -91,23 +91,22 @@
       "parent_id": 2024,
       "published": true,
       "banner_img": "https://picsum.photos/1903/709",
-      "btn": {
-        "color": "",
-        "bg-color": "",
-        "border-color": "",
-        "color-hv": "",
-        "bg-color-hv": "",
-        "border-color-hv": "",
-        "margin": ""
-      },
       "btn-data": [
         {
-          "title": "",
+          "title": "地藏經連線",
           "link": ""
         },
         {
-          "title": "",
+          "title": "精舍祈福會直播",
           "link": ""
+        },
+        {
+          "title": "線上祈福",
+          "link": "#"
+        },
+        {
+          "title": "參與各社區祈福會 ",
+          "link": "#"
         }
       ]
     }
