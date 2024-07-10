@@ -82,7 +82,8 @@
         ]
       },
       "img_hr_desktop": "https://imagedelivery.net/JVmYbduioNVkRm0SvNGcew/79d0f408-0a54-4dda-ce1e-585989f6c800/Desktop",
-      "img_hr_mobile": "https://imagedelivery.net/JVmYbduioNVkRm0SvNGcew/52167efe-6c34-4b00-6358-f6d6a4bae900/Desktop"
+      "img_hr_mobile": "https://imagedelivery.net/JVmYbduioNVkRm0SvNGcew/52167efe-6c34-4b00-6358-f6d6a4bae900/Desktop",
+      "footer_bg": null
     }
   ],
   "banner": [
@@ -248,7 +249,7 @@
       "btn_link": "#"
     }
   ],
-  "工作表7": [
+  "article": [
     {
       "id": 1,
       "parent_id": 2024,
