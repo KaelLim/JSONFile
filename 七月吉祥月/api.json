@@ -90,7 +90,8 @@
       "id": 1,
       "parent_id": 2024,
       "published": true,
-      "banner_img": "https://picsum.photos/1903/709",
+      "banner_img_desktop": "https://imagedelivery.net/JVmYbduioNVkRm0SvNGcew/00f1961f-1379-456b-0f44-c5bcff92dc00/Desktop",
+      "banner_img_mobile": "https://imagedelivery.net/JVmYbduioNVkRm0SvNGcew/317e401c-aea9-4cad-423d-9201e001c700/Desktop",
       "btn-data": [
         {
           "title": "地藏經連線",
