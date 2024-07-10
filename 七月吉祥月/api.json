@@ -91,8 +91,8 @@
       "id": 1,
       "parent_id": 2024,
       "published": true,
-      "banner_img_desktop": "https://imagedelivery.net/JVmYbduioNVkRm0SvNGcew/00f1961f-1379-456b-0f44-c5bcff92dc00/Desktop",
-      "banner_img_mobile": "https://imagedelivery.net/JVmYbduioNVkRm0SvNGcew/317e401c-aea9-4cad-423d-9201e001c700/Desktop",
+      "img_bg_desktop": "https://imagedelivery.net/JVmYbduioNVkRm0SvNGcew/00f1961f-1379-456b-0f44-c5bcff92dc00/Desktop",
+      "img_bg_mobile": "https://imagedelivery.net/JVmYbduioNVkRm0SvNGcew/317e401c-aea9-4cad-423d-9201e001c700/Desktop",
       "btn-data": [
         {
           "title": "地藏經連線",
@@ -129,6 +129,8 @@
         }
       ],
       "video_link": "#",
+      "img_bg_desktop": "https://imagedelivery.net/JVmYbduioNVkRm0SvNGcew/d9b96162-3d71-4459-b9e1-11bad6e14300/Desktop",
+      "img_bg_mobile": null,
       "img_carousell": [
         {
           "title": "正信普度",
@@ -254,8 +256,9 @@
       "id": 1,
       "parent_id": 2024,
       "published": true,
-      "title": "線上祈福",
-      "description": "在雲端許下您的⼼願發願"
+      "title": "溫馨報導 分享法喜",
+      "description": "那些吉祥歲月的大小事",
+      "tag_id": 1541
     }
   ]
 }
