@@ -83,7 +83,11 @@
       },
       "img_hr_desktop": "https://imagedelivery.net/JVmYbduioNVkRm0SvNGcew/79d0f408-0a54-4dda-ce1e-585989f6c800/Desktop",
       "img_hr_mobile": "https://imagedelivery.net/JVmYbduioNVkRm0SvNGcew/52167efe-6c34-4b00-6358-f6d6a4bae900/Desktop",
-      "footer_bg": "https://imagedelivery.net/JVmYbduioNVkRm0SvNGcew/f94f66e7-acc0-4e53-b19c-694dd25e3900/Desktop"
+      "footer_bg": "https://imagedelivery.net/JVmYbduioNVkRm0SvNGcew/f94f66e7-acc0-4e53-b19c-694dd25e3900/Desktop",
+      "float_button1": {
+        "img": "https://imagedelivery.net/JVmYbduioNVkRm0SvNGcew/4166d9d5-e076-4e45-0832-137e1ab36e00/Small",
+        "link": "#"
+      }
     }
   ],
   "metadata": [
@@ -103,19 +107,19 @@
       "btn-data": [
         {
           "title": "地藏經連線",
-          "link": "#"
+          "link": "#scripture_live"
         },
         {
           "title": "精舍祈福會直播",
-          "link": "#"
+          "link": "#pray_live"
         },
         {
           "title": "線上祈福",
-          "link": "#"
+          "link": "#pray_tree"
         },
         {
           "title": "參與各社區祈福會 ",
-          "link": "#"
+          "link": "https://tcit.tzuchi.net/CISBulletinWeb/#/pages/festival"
         }
       ]
     }
