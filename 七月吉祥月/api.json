@@ -139,7 +139,11 @@
           "description": "虔誠⼀念⼼，以鮮花素果祭拜，不燒⾦紙，再將燒⾦紙的花費，⽤來⾏善積福，環境無傷健康平安。"
         }
       ],
-      "video_link": "#",
+      "video": {
+        "title": "",
+        "link": "",
+        "display": "block"
+      },
       "img_bg": "https://imagedelivery.net/JVmYbduioNVkRm0SvNGcew/d9b96162-3d71-4459-b9e1-11bad6e14300/Desktop",
       "img_carousell": [
         {
@@ -268,7 +272,8 @@
       "published": true,
       "title": "溫馨報導 分享法喜",
       "description": "那些吉祥歲月的大小事",
-      "tag_id": 1541
+      "tag_id": 1541,
+      "btn_icon": "https://imagedelivery.net/JVmYbduioNVkRm0SvNGcew/99466084-7595-4520-e07b-efc911817300/icon24"
     }
   ]
 }
