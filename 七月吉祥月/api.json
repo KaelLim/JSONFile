@@ -145,6 +145,7 @@
         "display": "block"
       },
       "img_bg": "https://imagedelivery.net/JVmYbduioNVkRm0SvNGcew/d9b96162-3d71-4459-b9e1-11bad6e14300/Desktop",
+      "img_bg_mobile": "https://imagedelivery.net/JVmYbduioNVkRm0SvNGcew/a49d2d6b-6db6-4954-52cd-e70f73bfcc00/Desktop",
       "img_carousell": [
         {
           "title": "正信普度",
@@ -249,7 +250,7 @@
       "parent_id": 2024,
       "published": true,
       "title": "精舍祈福會直播",
-      "description": "8/18 (日) 15:00~17:00\\n凝聚善念 增添福慧",
+      "description": "8/18 (日)15:00~17:00\n凝聚善念 增添福慧",
       "img": "https://imagedelivery.net/JVmYbduioNVkRm0SvNGcew/95262b1e-95c9-4bcd-57be-f7e30f069400/Small",
       "btn_link": "https://connect.tzuchi.org.tw/dharma/"
     }
