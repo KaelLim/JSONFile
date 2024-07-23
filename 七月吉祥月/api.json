@@ -151,19 +151,19 @@
           "title": "正信普度",
           "description": "普度眾生救倒懸\n扶助貧病苦難人。",
           "img_src": "https://imagedelivery.net/JVmYbduioNVkRm0SvNGcew/af01ec2b-bfe2-4f22-2db2-8c43c6715600/Small",
-          "radius": "100px"
+          "radius": "150px"
         },
         {
           "title": "茹素護生",
           "description": "感恩尊重平等愛\n茹素戒殺護⽣靈",
           "img_src": "https://imagedelivery.net/JVmYbduioNVkRm0SvNGcew/73d731c8-bac9-4b9c-a462-a9910a147800/Small",
-          "radius": "100px"
+          "radius": "150px"
         },
         {
           "title": "祈福造福",
           "description": "積善之家有餘慶\n造福屏災天下安。",
           "img_src": "https://imagedelivery.net/JVmYbduioNVkRm0SvNGcew/aa4fdf62-bb42-45de-6e8b-a03b2a60cd00/Small",
-          "radius": "100px"
+          "radius": "150px"
         }
       ]
     }
